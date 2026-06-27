@@ -4,3 +4,8 @@ nav {
 nav a {
     display: block;
 }
+
+li {
+    margin-bottom: 5px;
+}
+
