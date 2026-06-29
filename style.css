@@ -1,3 +1,4 @@
+
 nav {
     margin-top: 50px;
 }
@@ -7,5 +8,18 @@ nav a {
 
 li {
     margin-bottom: 5px;
+}
+
+.movies th, 
+.movies tr, 
+.movies td {
+    border: 1px solid black;
+}
+.movies th, td {
+    padding: .8em .9em;
+    text-align: center;
+}
+table.movies {
+    border-collapse: collapse;
 }
 
